@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a real-time data processing system built with React and Tailwind CSS that fetches real-time weather data from the OpenWeatherMap API. The system monitors weather conditions and provides summarized insights using rollups and aggregates. Alerting mechanisms are also implementedd
+This is a real-time data processing system built with React and Tailwind CSS that fetches real-time weather data from the OpenWeatherMap API. The system monitors weather conditions and provides summarized insights using rollups and aggregates. Alerting mechanisms are also implemented based on user's choice.
 
 ## Table of Contents
 
