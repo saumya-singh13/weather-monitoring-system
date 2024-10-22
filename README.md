@@ -13,9 +13,8 @@ This is a real-time data processing system built with React and Tailwind CSS tha
 - [Running the Application](#running-the-application)
 - [Build Instructions](#build-instructions)
 - [Design Choices](#design-choices)
-- [Usage](#usage)
+- [Key Components](#key-components)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
