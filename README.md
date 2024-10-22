@@ -42,13 +42,13 @@ Run the following command to install project dependencies:
 ```bash
 npm install
 ```
-This will install the necessary packages listed in package.json, including:
+Wait for it to install the necessary packages listed in package.json, including:
 
-react
-react-dom
-tailwindcss
-postcss
-autoprefixer
+- react
+- react-dom
+- tailwindcss
+- postcss
+- autoprefixer
 
 ## Setup Instructions
 - Clone the repository:
@@ -67,7 +67,7 @@ To start the development server, run:
 ```bash
 npm start
 ```
-This will start the application in your default web browser at http://localhost:3000.
+This will start the application in your default web browser at http://localhost:3000. (Please be patient as this step tends to take a lot of time.)
 
 ## Build Instructions
 To create a production build of the application, run:
