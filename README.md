@@ -42,13 +42,14 @@ Run the following command to install project dependencies:
 ```bash
 npm install
 ```
-Wait for it to install the necessary packages listed in package.json, including:
+Wait for it to install the necessary packages listed in package.json ignoring the warnings, including:
 
 - react
 - react-dom
 - tailwindcss
 - postcss
 - autoprefixer
+  
 
 ## Setup Instructions
 - Clone the repository:
